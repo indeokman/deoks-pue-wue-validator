@@ -1,0 +1,14 @@
+{
+  "months": [
+    "2026-01",
+    "2026-02"
+  ],
+  "scope_id": "demo-a",
+  "water_basis": "consumption",
+  "complete_calendar_year": false,
+  "facility_kwh": "1280000",
+  "it_kwh": "1000000",
+  "water_l": "190000",
+  "period_pue": "1.28",
+  "period_water_l_per_it_kwh": "0.19"
+}

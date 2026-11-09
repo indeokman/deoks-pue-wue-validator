@@ -1,0 +1,3 @@
+month,scope_id,facility,facility_unit,it,it_unit,water,water_unit,water_basis
+2026-01,demo-a,200,MWh,100,MWh,10,m3,consumption
+2026-03,demo-a,1080000,kWh,900000,kWh,,L,consumption
